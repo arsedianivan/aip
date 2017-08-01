@@ -1,3 +1,6 @@
+Once upon a time
+there was a guy in Advanced Internet Programming
+adding lines of code to a file
 First commit
 Second time
 Third time
