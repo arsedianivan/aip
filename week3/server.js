@@ -11,7 +11,9 @@ fs.readFile('./index.html', function (err, html) {
         response.write(html);  
         console.log("Request came from: " + request.url);
         response.end();  
-    }).listen(port);
+    }).listen(port, function(){
+        console.log("Listening on port " + port);
+    });
 });
 
 
