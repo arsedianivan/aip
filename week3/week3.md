@@ -18,7 +18,7 @@ My chosen task for the week 3 assessment is Category 3: Personal Development and
 
 #### Evidence:
 
-I enrolled in a couple of MOOC (Online) courses in week 2 and started learning the courses' materials, in week 3 I continue to the learning process and completed the practical challenges to utilise npm to manage packages and also deploy Node.js, Express, React, Babel Interpiler as well Bootstrap 4 framework locally:
+I enrolled in a couple of MOOC (Online) courses in week 2 and started learning the courses' materials, in week 3 I continue the learning process and completed the practical challenges to utilise npm to manage packages and also deploy Node.js, Express, React, Babel Interpiler as well Bootstrap 4 framework locally:
 
 * ![EDX](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png) 
 ##### [Building Functional Prototypes using Node.js](https://www.edx.org/course/building-functional-prototypes-using-microsoft-dev280x)
