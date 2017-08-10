@@ -1,4 +1,3 @@
-
 # Week 3
 
 ## WEEK 3 SUMMARY:
@@ -29,5 +28,5 @@ This course covers the basic very well, particularly the part whereby it compreh
 * ![NODEJS](https://nodeblog.files.wordpress.com/2011/07/nodejs.png)
 ##### [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 
-I also spent a little bit of time reading through NodeJS' documentation, in particular the Anatomy of an HTTP Transaction and the Getting Started Guide which provide a great in-depth explanation of the technical rationale and techniques in deploying NodJS server.
+I also spent a little bit of time reading through NodeJS' documentation, in particular *the Anatomy of an HTTP Transaction* and *the Getting Started Guide* sections which provide a great in-depth explanation of the technical rationale and techniques in deploying NodJS server.
 
