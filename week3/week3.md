@@ -26,7 +26,7 @@ I enrolled in a couple of MOOC (Online) courses in week 2 and started learning t
 
 This course covers the basic very well, particularly the part whereby it comprehensively explains the rationale as well the step-by-step processes to setup the server.js file to create the HTTP module to helps the server in handling hTTP requests and responses. And to setup a simple server-side API using Express.
 
-* ! [NODEJS](https://nodeblog.files.wordpress.com/2011/07/nodejs.png)
+* ![NODEJS](https://nodeblog.files.wordpress.com/2011/07/nodejs.png)
 ##### [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 
 I also spent a little bit of time reading through NodeJS' documentation, in particular the Anatomy of an HTTP Transaction and the Getting Started Guide which provide a great in-depth explanation of the technical rationale and techniques in deploying NodJS server.
