@@ -14,11 +14,13 @@ All relevant project files can be found on:
 
 #### Chosen Task:
 
-My chosen task for the week 3 assessment is Category 3: Personal Development and Productivity
+My chosen task for the week 3 assessment is Productivity & Category 5: Face-to-Face & Category 3: Personal Development and ace Community
 
 #### Evidence:
 
-I enrolled in a couple of MOOC (Online) courses in week 2 and started learning the courses' materials, in week 3 I continue the learning process and completed the practical challenges to utilise npm to manage packages and also deploy Node.js, Express, React, Babel Interpiler as well Bootstrap 4 framework locally:
+1. I participated & attended a health hackathon (Makers) run by No Moss co. My team and I put together a workflow and document management application for clinicians, doctors and registered Nurse. Here is the selfie https://drive.google.com/file/d/0B2V_4DIikFfoa2pCSnBvVmVrT3c/view?usp=sharing
+
+2. I enrolled in a couple of MOOC (Online) courses in week 2 and started learning the courses' materials, in week 3 I continue the learning process and completed the practical challenges to utilise npm to manage packages and also deploy Node.js, Express, React, Babel Interpiler as well Bootstrap 4 framework locally:
 
 * ![EDX](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png) 
 ##### [Building Functional Prototypes using Node.js](https://www.edx.org/course/building-functional-prototypes-using-microsoft-dev280x)
@@ -28,5 +30,5 @@ This course covers the basic very well, particularly the part whereby it compreh
 * ![NODEJS](https://nodeblog.files.wordpress.com/2011/07/nodejs.png)
 ##### [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 
-I also spent a little bit of time reading through NodeJS' documentation, in particular *the Anatomy of an HTTP Transaction* and *the Getting Started Guide* sections which provide a great in-depth explanation of the technical rationale and techniques in deploying NodJS server.
+3. I also spent a little bit of time reading through NodeJS' documentation, in particular *the Anatomy of an HTTP Transaction* and *the Getting Started Guide* sections which provide a great in-depth explanation of the technical rationale and techniques in deploying NodJS server.
 
