@@ -14,7 +14,7 @@ All relevant project files can be found on:
 
 #### Chosen Task:
 
-My chosen task for the week 3 assessment is Productivity & Category 5: Face-to-Face & Category 3: Personal Development and ace Community
+My chosen task for the week 3 assessment are Productivity & Category 5: Face-to-Face & Category 3: Personal Development and ace Community
 
 #### Evidence:
 
