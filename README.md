@@ -17,7 +17,7 @@ All relevant project files can be found on the following link:
 
 In week 3, having completed an initial investigation of the JavaScript full stack framework (NodeJS, ReactJS, ExpressJS, Babel). 
 
-I started this process with an initial setup that includes utilisation of package manager to manage packages & dependencies, server file setup to access the HTTP module, request function to handle requests from client (request handler), modifying port and other elements, using CDN to incorporate  Bootstrap 4 Framework, ReactJS framework and Babel interpiler.  
+I started this process with an initial setup that includes utilisation of package manager to manage packages & dependencies, server file setup to access the HTTP module, request function to handle requests from client (request handler), modifying port and other elements, using CDN to incorporate  Bootstrap 4 Framework, ReactJS framework and Babel interpiler. I also attended and participated in a Health Technology Hackathon run by No Moss Co and created a workflow management tool for in-hospital clinicians.
 
 All relevant project files can be found on:
 
