@@ -18,7 +18,7 @@ My chosen task for the week 3 assessment is Productivity & Category 5: Face-to-F
 
 #### Evidence:
 
-1. I participated & attended a health hackathon (Makers) run by No Moss co. My team and I put together a workflow and document management application for clinicians, doctors and registered Nurse. Here is the selfie https://drive.google.com/file/d/0B2V_4DIikFfoWnFMZWlJRFkyd1U/view?usp=sharing & Here is the Repo for the app that we named LifeTree https://github.com/Dknucklez86/lifetree
+1. I participated & attended a health hackathon (Makers) run by No Moss co. My team and I put together a workflow and document management application for clinicians, doctors and registered nurses. Here is the selfie https://drive.google.com/file/d/0B2V_4DIikFfoWnFMZWlJRFkyd1U/view?usp=sharing & Here is the Repo for the app that we named LifeTree https://github.com/Dknucklez86/lifetree
 
 2. I enrolled in a couple of MOOC (Online) courses in week 2 and started learning the courses' materials, in week 3 I continue the learning process and completed the practical challenges to utilise npm to manage packages and also deploy Node.js, Express, React, Babel Interpiler as well Bootstrap 4 framework locally:
 
