@@ -14,7 +14,7 @@ All relevant project files can be found on:
 
 #### Chosen Task:
 
-My chosen task for the week 4 assessment are Productivity & Category 5: Face-to-Face Community & Category 3: Personal Development
+My chosen task for the week 4 assessment are Productivity & Category 4: Online Community, Category 5: Face-to-Face Community & Category 3: Personal Development
 #### Evidence:
 
 1. I participated & attended a health hackathon (Makers) run by No Moss co. My team and I put together a workflow and document management application for clinicians, doctors and registered nurses. Here is the selfie https://drive.google.com/file/d/0B2V_4DIikFfoWnFMZWlJRFkyd1U/view?usp=sharing & Here is the Repo for the app that we named LifeTree https://github.com/Dknucklez86/lifetree
